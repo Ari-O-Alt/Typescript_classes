@@ -2,6 +2,7 @@
 // A class can have fiels, methods, getters and setters
 // A class has a constructor - the function which is called when crating an instance of the class
 // The constructor can be explicitly specified and it it's ommited, one if automatically provided
+// An explicitly typed constructor is called a parameterized constructor
 
 class RandomWriting {
   // Fields
