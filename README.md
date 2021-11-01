@@ -9,7 +9,11 @@
    - Syntax 
    - Creation of new objects (instances) using inheritance
    - Working with the new objects (accessing properties and methods on those objects)
-#### 03.InterfacesImplementation.ts
+#### 03.ClassImplementsInterface.ts
+   - Syntax of classes that implement interfaces
+   - Creation of new objects (instances) of classes that implement interfaces
+   - Working with the new objects (accessing properties and methods on those objects)
+#### 04.InterfaceExtendsClass.ts
    - Syntax of classes that implement interfaces
    - Creation of new objects (instances) of classes that implement interfaces
    - Working with the new objects (accessing properties and methods on those objects)
