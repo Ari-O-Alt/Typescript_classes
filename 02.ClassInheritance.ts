@@ -21,7 +21,6 @@ class RandomMessageOnACup extends Random {
   // All sub classes need a parameterized constructor
   constructor(writing: string) {
     super(writing);
-    this._writing = writing;
   }
 }
 
