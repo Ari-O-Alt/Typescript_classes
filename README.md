@@ -11,10 +11,10 @@
    - Working with the new objects (accessing properties and methods on those objects)
 #### 03.ClassImplementsInterface.ts
    - Syntax of classes that implement interfaces
-   - Creation of new objects (instances) of classes that implement interfaces
+   - Creation of new objects (instances) that implement classes impelementing interfaces
    - Working with the new objects (accessing properties and methods on those objects)
 #### 04.InterfaceExtendsClass.ts
-   - Syntax of classes that implement interfaces
-   - Creation of new objects (instances) of classes that implement interfaces
+   - Syntax of interface that extends a class
+   - Creation of new objects (instances) of objects that implement an interface that extends a class
    - Working with the new objects (accessing properties and methods on those objects)
 
