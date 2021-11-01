@@ -3,19 +3,19 @@
 // To implement multiple interfaces means that a class must contain all properties and methods on all implemented interfaces
 
 // Interface
-interface GenericInterface {
+interface IGenericInterface {
   name: string;
   age: number;
   returnDate: () => Date;
 }
 
 // Interface
-interface AnotherGenericInterface {
+interface IAnotherGenericInterface {
   greetingMessage: string;
 }
 
 // Class that implements one interface
-class GenericClass implements GenericInterface {
+class GenericClass implements IGenericInterface {
   name: string;
   age: number;
   returnDate() {
@@ -35,7 +35,7 @@ console.log(genericClass1.returnDate()); // returns today's date in the format o
 
 // Class that implements two interfaces
 class ImplementMultipleInterface1
-  implements GenericClass, AnotherGenericInterface
+  implements GenericClass, IAnotherGenericInterface
 {
   name: string;
   age: number;
